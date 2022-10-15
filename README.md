@@ -1,4 +1,5 @@
-Ok<h1 align="center">Hi 👋, I'm L4EROOR</h1>
+<h1 align="center">Hi 👋, I'm L4EROOR</h1>
+<img src="https://github.com/Kmb-id/TRI/blob/main/IMG_20221015_091408.jpg" width="100%" alt="screenshot">
 
 # TRI DOR
 Tembak PAKET MURAH TRI/THREE
@@ -26,4 +27,3 @@ $ php dor.php
   <a href="https://t.me/L4EROOR"><img src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   
 </p>
-<img src="https://github.com/Kmb-id/TRI/blob/main/IMG_20221015_091408.jpg" width="100%" alt="screenshot">
