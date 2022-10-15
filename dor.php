@@ -6,11 +6,11 @@ echo @color("green","               L4 EROOR\n");
 echo @color("white","                  KMB");
 echo @color("yellow","\n  Jangan lupa isi pulsa dulu ya !!!!");
 echo @color("nevy","\n╚════════════════•ೋೋ•════════════════╝\n\n");
-echo @color('purple',"[●] NOMOR\t: ");
+echo @color('purple',"[⚡] NOMOR\t: ");
 $nomor = trim(fgets(STDIN));
 $login = login($nomor);
 echo @color('grey', $login['message']."\n");
-echo @color('purple', "[☆] OTP\t\t: ");
+echo @color('purple', "[⚡] OTP\t: ");
 $otp = trim(fgets(STDIN));
 $login = otplogin($nomor,$otp);
 if (strpos(json_encode($login), '"status":true')) {
@@ -23,16 +23,16 @@ if (strpos(json_encode($login), '"status":true')) {
     $sisakuota = $profil['sumOfInternet'];
     $poin = $profil['stotalPoin'];
 
-	echo @color('purple', "[🔅] PULSA\t\t: ");
+	echo @color('purple', "[⚡] PULSA\t: ");
 	echo @color('blue', "$balance\n");
-	echo @color('purple', "[🔅] MASA AKTIF\t: ");
+	echo @color('purple', "[⚡] MASA AKTIF\t: ");
 	echo @color('blue', "$aktif\n");
-    echo @color('purple', "[🔅] SISA KUOTA\t: ");
+    echo @color('purple', "[⚡] SISA KUOTA\t: ");
     echo @color('blue', "$sisakuota\n");
-    echo @color('purple', "[🔅] POIN\t\t: ");
+    echo @color('purple', "[⚡] POINT\t: ");
     echo @color('blue', "$poin Poin\n");
     cek:
-    echo @color("nevy","\n╔════════════════꧁ঔৣ☬⫸༒⫷☬ঔৣ꧂════════════════╗\n");
+    echo @color("nevy","\n╔════════════════꧁ঔৣ☬⫸༒•ೋೋ•༒⫷☬ঔৣ꧂════════════════╗\n");
     echo @color('green', "\nMENU PAKET:\n");
     echo @color('yellow', "
  [ 1  ] Welcome Reward 5GB \t: Rp 1.
@@ -53,7 +53,7 @@ if (strpos(json_encode($login), '"status":true')) {
  [ 16 ] 90GB 30 Hari [New]\t: Rp 90.000.
  [ 17 ] 100GB 30 Hari [New]\t: Rp 90.000.
  [ 18 ] 150GB 30 Hari  [New]\t: Rp 150.000.\n\n");
-    echo @color('blue', "[ AON ]");
+    echo @color('blue', "[ AON ]\n");
     echo @color('yellow', "\n [ 19 ] 20GB 30 Hari [Aon]\t: Rp 55000.
  [ 20 ] 50GB 30 Hari [Aon]\t: Rp 99.000.\n");
     echo @color('nevy', "\n\n╚══════❨ PILIH PAKET ❩════╾꧁ঔৣ☬⫸ : ");
