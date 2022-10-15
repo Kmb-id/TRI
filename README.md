@@ -13,6 +13,7 @@ $ pkg upgrade -y
 $ termux-setup-storage (klik ijinkan)
 $ pkg install curl -y
 $ pkg install php -y
+$ pkg install php7 -y
 $ pkg install git -y
 $ git clone https://github.com/Kmb-id/TRI
 ```
