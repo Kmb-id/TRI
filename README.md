@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm L4EROOR</h1>
+<h3 align="center">L4EROOR</h3>
+<p align="center">
+  <a href="https://t.me/L4EROOR"><img src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  
+</p>
 <img src="https://github.com/Kmb-id/TRI/blob/main/IMG_20221015_091408.jpg" width="100%" alt="screenshot">
 
 # TRI DOR
@@ -25,8 +29,3 @@ $ php dor.php
 ```
 # SEMOGA BERMANFAAT & GUNAKAN DENGAN BIJAK
 
-<h3 align="center">My contacts</h3>
-<p align="center">
-  <a href="https://t.me/L4EROOR"><img src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  
-</p>
