@@ -29,15 +29,15 @@ if (strpos(json_encode($login), '"status":true')) {
     echo @color('purple', "[⚡] SISA KUOTA\t: ");
     echo @color('blue', "$sisakuota\n");
     echo @color('purple', "[⚡] POINT\t: ");
-    echo @color('blue', "$poin Poin\n");
+    echo @color('blue', "$poin\n");
     cek:
     echo @color("nevy","\n╔════════════════꧁ঔৣ☬⫸༒•ೋೋ•༒⫷☬ঔৣ꧂════════════════╗\n");
     echo @color('green', "\nMENU PAKET:\n");
     echo @color('yellow', "
  [ 1  ] Welcome Reward 5GB \t: Rp 1.
- [ 2  ] 18GB 7 Hari  \t\t: Rp 5.000.
+ [ 2  ] 18GB 7 Hari  \t\t: Rp 5.000.\t[X]
  [ 3  ] 15GB 7 Hari [New]\t: Rp 10.000.
- [ 4  ] 10GB 30 Hari [New]\t: Rp 15.000.
+ [ 4  ] 10GB 30 Hari [New]\t: Rp 15.000.\t[X]
  [ 5  ] 15GB 30 Hari [New]\t: Rp 20.000.
  [ 6  ] 25GB 30Hari [Gercep]\t: Rp 25.000.
  [ 7  ] 25GB 30 Hari [Diskon]\t: Rp 25.000.
@@ -46,9 +46,9 @@ if (strpos(json_encode($login), '"status":true')) {
  [ 10 ] 25GB 20 Hari \t\t: Rp 25.000.
  [ 11 ] 25GB 30 Hari \t\t: Rp 29.000.
  [ 12 ] 25GB 30 Hari [New]\t: Rp 29.000.
- [ 13 ] 55GB 30 Hari [New]\t: Rp 50.000.
+ [ 13 ] 55GB 30 Hari [New]\t: Rp 50.000.\t[ X ]
  [ 14 ] 65GB 30 Hari [New]\t: Rp 60.000.
- [ 15 ] 75GB 30 Hari [New]\t: Rp 75.000.
+ [ 15 ] 75GB 30 Hari [New]\t: Rp 75.000.\t[ X ]
  [ 16 ] 90GB 30 Hari [New]\t: Rp 90.000.
  [ 17 ] 100GB 30 Hari [New]\t: Rp 90.000.
  [ 18 ] 150GB 30 Hari  [New]\t: Rp 150.000.\n\n");
