@@ -22,13 +22,13 @@ if (strpos(json_encode($login), '"status":true')) {
     $sisakuota = $profil['sumOfInternet'];
     $poin = $profil['stotalPoin'];
 
-	echo @color('purple', "[⚡] PULSA\t: ");
+	echo @color('purple', "[⚡] PULSA\t\t: ");
 	echo @color('blue', "$balance\n");
 	echo @color('purple', "[⚡] MASA AKTIF\t: ");
 	echo @color('blue', "$aktif\n");
     echo @color('purple', "[⚡] SISA KUOTA\t: ");
     echo @color('blue', "$sisakuota\n");
-    echo @color('purple', "[⚡] POINT\t: ");
+    echo @color('purple', "[⚡] POINT\t\t: ");
     echo @color('blue', "$poin\n");
     cek:
     echo @color("nevy","\n╔════════════════꧁ঔৣ☬⫸༒•ೋೋ•༒⫷☬ঔৣ꧂════════════════╗\n");
