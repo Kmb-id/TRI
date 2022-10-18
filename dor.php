@@ -142,9 +142,9 @@ if (strpos(json_encode($login), '"status":true')) {
     }
     $beli = beli($nomor,$plan,$secret,$prodid);
     if ($beli['status'] == true) {
-        echo @color('green', "\n╚══════❨ SUKSES ❩══꧁ঔৣ☬⫸༒Cek SMS༒⫷☬ঔৣ꧂");
+        echo @color('green', "\n╚══════❨ SUKSES ❩══꧁ঔৣ☬⫸༒Cek SMS༒⫷☬ঔৣ꧂\n\n");
     } else {
-        echo @color('red', "\n╚══════❨ GAGAL ! ❩══꧁ঔৣ☬⫸༒Coba Lagi༒⫷☬ঔৣ꧂");
+        echo @color('red', "\n╚══════❨ GAGAL ! ❩══꧁ঔৣ☬⫸༒Coba yang Lain༒⫷☬ঔৣ꧂\n\n");
     }
 
 
