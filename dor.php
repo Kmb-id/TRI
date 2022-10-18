@@ -5,8 +5,12 @@ echo @color("red","          TEMBAK PAKET THREE\n");
 echo @color("green","               L4 EROOR\n");
 echo @color("white","                  KMB");
 echo @color("yellow","\n  Jangan lupa isi pulsa dulu ya !!!!");
-echo @color("nevy","\n╚════════════════•ೋೋ•════════════════╝\n\n");
-echo @color('purple',"[⚡] NOMOR TRI\t\t: ");
+echo @color("nevy","\n╚════════════════•ೋೋ•════════════════╝\n");
+echo @color('blue', "  CREDITS :");
+echo @color('white', " 🙏THANKS to ALL AUTHORS🙏\n");
+echo @color('green', "\t     ❤️GOD BLESS YOU❤️ \n");
+echo @color('nevy', "══════════════════════════════════════\n");
+echo @color('purple',"\n[⚡] NOMOR TRI\t\t: ");
 $nomor = trim(fgets(STDIN));
 $login = login($nomor);
 echo @color('purple', "[⚡] OTP (Cek Sms)\t: ");
@@ -24,9 +28,9 @@ if (strpos(json_encode($login), '"status":true')) {
 
 	echo @color('purple', "[⚡] PULSA\t\t: ");
 	echo @color('blue', "$balance\n");
-	echo @color('purple', "[⚡] MASA AKTIF\t: ");
+	echo @color('purple', "[⚡] MASA AKTIF\t\t: ");
 	echo @color('blue', "$aktif\n");
-    echo @color('purple', "[⚡] SISA KUOTA\t: ");
+    echo @color('purple', "[⚡] SISA KUOTA\t\t: ");
     echo @color('blue', "$sisakuota\n");
     echo @color('purple', "[⚡] POINT\t\t: ");
     echo @color('blue', "$poin\n");
