@@ -8,7 +8,7 @@
 # TRI DOR
 Tembak PAKET MURAH TRI/THREE
 # TERMUX APK
-Download 👉 https://f-droid.org/repo/com.termux_117.apk
+<b>Untuk HP ANDROID 7 ke atas</b> 👉 https://f-droid.org/repo/com.termux_118.apk
 
 <b>HOW TO INSTALL SCRIPT :</b>
 ```
