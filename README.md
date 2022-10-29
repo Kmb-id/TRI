@@ -3,7 +3,7 @@
   <a href="https://t.me/L4EROOR"><img src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   
 </p>
-<img src="https://github.com/Kmb-id/TRI/blob/main/IMG_20221028_104525.jpg" width="100%" alt="screenshot">
+<img src="https://github.com/Kmb-id/TRI/blob/main/IMG_20221028_073858.jpg" width="100%" alt="screenshot">
 
 # TRI DOR
 Tembak PAKET MURAH TRI/THREE
@@ -27,6 +27,9 @@ $ cd TRI
 $ php dor.php
 ```
 # SEMOGA BERMANFAAT & GUNAKAN DENGAN BIJAK
+</p>
+<img src="https://github.com/Kmb-id/TRI/blob/main/IMG_20221028_104525.jpg" width="100%" alt="screenshot">
+
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=Kmb-id&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Kmb-id" />
 <a href="https://api.daily.dev/get?r=Kmb-id"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <p align='center'><a href="https://api.daily.dev/get?r=Kmb-id">
