@@ -3,7 +3,7 @@
   <a href="https://t.me/L4EROOR"><img src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   
 </p>
-<img src="https://github.com/Kmb-id/TRI/blob/main/Screenshot_2022-10-28-10-43-05-67_84d3000e3f4017145260f7618db1d683.jpg" width="100%" alt="screenshot">
+<img src="https://github.com/Kmb-id/TRI/blob/main/IMG_20221028_104525.jpg" width="100%" alt="screenshot">
 
 # TRI DOR
 Tembak PAKET MURAH TRI/THREE
