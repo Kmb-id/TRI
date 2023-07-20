@@ -1,6 +1,6 @@
 <h3 align="center">L4EROOR</h3>
 <p align="center">
-  <a href="https://t.me/L4EROOR"><img src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/L4EROOR_OFFICIAL"><img src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   
 </p>
 <img src="https://github.com/Kmb-id/TRI/blob/main/IMG_20221028_073858.jpg" width="100%" alt="screenshot">
@@ -8,7 +8,7 @@
 # TRI DOR
 Tembak PAKET MURAH TRI/THREE
 # TERMUX APK
-<b>Untuk HP ANDROID 7 ke atas :</b><br> [disini](https://f-droid.org/repo/com.termux_118.apk)</br>
+<b>Untuk HP ANDROID 7+ ke atas :</b><br> [disini](https://f-droid.org/repo/com.termux_118.apk)</br>
 
 <b>HOW TO INSTALL SCRIPT :</b>
 ```
