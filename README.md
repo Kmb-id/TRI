@@ -3,7 +3,7 @@
   <a href="https://t.me/L4EROOR_OFFICIAL"><img src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   
 </p>
-<img src="https://github.com/Kmb-id/TRI/blob/main/IMG_20221028_073858.jpg" width="100%" alt="screenshot">
+<img src="https://github.com/Kmb-id/TRI/blob/main/IMG_20231128_061011.jpg" width="100%" alt="screenshot">
 
 # TRI DOR
 Tembak PAKET MURAH TRI/THREE
@@ -16,7 +16,7 @@ $ pkg update -y
 $ pkg upgrade -y
 $ termux-setup-storage (klik ijinkan)
 $ pkg install curl -y
-$ pkg install php php7 -y
+$ pkg install php -y
 $ pkg install git -y
 $ git clone https://github.com/Kmb-id/TRI
 ```
