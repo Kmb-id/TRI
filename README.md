@@ -1,6 +1,5 @@
 <h3 align="center">L4EROOR</h3>
 <p align="center">
-  <a href="https://t.me/L4EROOR_OFFICIAL"><img src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <br><b>DOR V2 [NEW]</b>
 </p>
 <img src="https://github.com/Kmb-id/TRI/blob/main/IMG_20231128_061011.jpg" width="100%" alt="screenshot">
