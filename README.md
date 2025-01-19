@@ -21,10 +21,11 @@ $ pkg install git -y
 $ git clone https://github.com/Kmb-id/TRI
 ```
 
-<b> GO TO RUN : </b>
+<b> GO TO RUN (ada 2 versi): </b>
 ```
 $ cd TRI
-$ php dor.php
+$ php dor.php (ATAU)
+$ php V2025.py
 ```
 # SEMOGA BERMANFAAT & GUNAKAN DENGAN BIJAK
 </p>
