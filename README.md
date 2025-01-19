@@ -1,5 +1,8 @@
 <h3 align="center">L4EROOR</h3>
 <p align="center">
+  <br><b>V.2025 </b>
+</p>
+<img src="https://github.com/Kmb-id/TRI/blob/main/IMG_V2025.jpg" width="100%" alt="screenshot">
 <br><b>DOR V2 [NEW]</b>
 </p>
 <img src="https://github.com/Kmb-id/TRI/blob/main/IMG_20231128_061011.jpg" width="100%" alt="screenshot">
