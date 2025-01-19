@@ -25,7 +25,7 @@ $ git clone https://github.com/Kmb-id/TRI
 ```
 $ cd TRI
 $ php dor.php (ATAU)
-$ php V2025.py
+$ php V.2025.php
 ```
 # SEMOGA BERMANFAAT & GUNAKAN DENGAN BIJAK
 </p>
