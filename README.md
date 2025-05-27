@@ -8,7 +8,8 @@
 <img src="https://github.com/Kmb-id/TRI/blob/main/IMG_20231128_061011.jpg" width="100%" alt="screenshot">
 
 # TERMUX APK
-<b>Untuk HP ANDROID 7+ ke atas :</b><br> [disini](https://f-droid.org/repo/com.termux_118.apk)</br>
+<b>Downloads Applikasi TERMUX Untuk HP  :</b><br>👉 [{Here}](https://f-droid.org/repo/com.termux_1021.apk)  apk yang di Rilis 5 April 2025</br>
+<b> atau</b><br>👉 [{other}](https://f-droid.org/repo/com.termux_1021.apk) pilih versi lain</br>
 
 <b>HOW TO INSTALL SCRIPT :</b>
 ```
